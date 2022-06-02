@@ -26,7 +26,7 @@ The combination of:
 root: true,
 ```
 
-and/or
+or
 
 2. a rule targeting specific files (at the root or in "overrides"):
 
